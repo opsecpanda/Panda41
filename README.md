@@ -60,4 +60,6 @@ When flashing for this board, you want to treat it as a Reviung41. You can creat
 
 #### Contact me
 
+Join my Discord here: https://discord.gg/8CvfU6AVRH
+
 You can contact me via Discord (opsecPANDA#8008) or Reddit (u/opsecpanda) or email me at opsecpanda.blue@gmail.com.
