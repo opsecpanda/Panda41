@@ -45,6 +45,18 @@ The case is designed to use the following hardware:
 
 When flashing for this board, you want to treat it as a Reviung41. You can create a keymap with the online QMK Configurator under the Reviung41 selection. If you want to use VIA, flash it with the “reviung41_via.hex”.  You can use a nice!nano and flash with a reviung41 shield. 
 
+## Brief Build Guide 
+
+Flash controller, make sure it’s detecting properly as a reviung41.
+Solder diodes and reset switch. Black line on diode points towards square pad on PCB. Reset switch does not have directionality.
+Solder controller pins or controller hotswap sockets to the keyboard PCB. **Do not solder the *CONTROLLER* yet, just the pins.**
+Put your switches in the switch plate and solder them to the PCB.
+Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
+Assemble case.
+
+![Controller Orientation](/controller orientation.jpg)
+
+
 #### Contact me
 
 You can contact me via Discord (opsecPANDA#8008) or Reddit (u/opsecpanda) or email me at opsecpanda.blue@gmail.com.
