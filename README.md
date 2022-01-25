@@ -4,8 +4,6 @@ A modified version of the Reviung41 PCB by gtips, designed to fit in a stacked a
 
 ![Panda41 family photo](/Panda41-pics/Panda41_round-up.jpg)
 
-\![Panda41 family photo](https://i.imgur.com/QJjG1G4.jpg)
-
 https://imgur.com/a/qKzNon4
 
 ## **PCB**
@@ -46,3 +44,7 @@ The case is designed to use the following hardware:
 ## **Firmware/keymap:**
 
 When flashing for this board, you want to treat it as a Reviung41. You can create a keymap with the online QMK Configurator under the Reviung41 selection. If you want to use VIA, flash it with the “reviung41_via.hex”.  You can use a nice!nano and flash with a reviung41 shield. 
+
+#### Contact me
+
+You can contact me via Discord (opsecPANDA#8008) or Reddit (u/opsecpanda) or email me at opsecpanda.blue@gmail.com.
