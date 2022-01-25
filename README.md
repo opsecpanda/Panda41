@@ -47,12 +47,13 @@ When flashing for this board, you want to treat it as a Reviung41. You can creat
 
 ## Brief Build Guide 
 
-Flash controller, make sure it’s detecting properly as a reviung41.
-Solder diodes and reset switch. Black line on diode points towards square pad on PCB. Reset switch does not have directionality.
-Solder controller pins or controller hotswap sockets to the keyboard PCB. **Do not solder the *CONTROLLER* yet, just the pins.**
-Put your switches in the switch plate and solder them to the PCB.
-Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
-Assemble case.
+1. Flash controller, make sure it’s detecting properly as a reviung41.
+2. Solder diodes and reset switch. Black line on diode points towards square pad on PCB. Reset switch does not have directionality.
+3. Solder LEDs or LED strip if you're using any.
+4. Solder controller pins or controller hotswap sockets to the keyboard PCB. **Do not solder the *CONTROLLER* yet, just the pins.**
+5. Put your switches in the switch plate and solder them to the PCB.
+6. Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
+7. Assemble case.
 
 ![Controller Orientation](/troubleshooting-help/controller-orientation.jpg)
 
