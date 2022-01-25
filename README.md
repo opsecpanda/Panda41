@@ -54,7 +54,7 @@ Put your switches in the switch plate and solder them to the PCB.
 Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
 Assemble case.
 
-![Controller Orientation](/controller orientation.jpg)
+![Controller Orientation](/troubleshooting-help/controller-orientation.jpg)
 
 
 #### Contact me
