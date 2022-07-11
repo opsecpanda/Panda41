@@ -55,7 +55,7 @@ When flashing for this board, you want to treat it as a Reviung41. You can creat
 6. Solder controller. Check the image below to confirm the controller orientation is correct before you solder. On most controllers, the USB port will be exposed, in other words it'll be facing up when you're looking at the bottom of the PCB.
 7. Assemble case.
 
-![Controller Orientation](/troubleshooting-help/controller-orientation rev1.2.jpg) 
+![Controller Orientation](/troubleshooting-help/controller-orientation-rev1.2.jpg) 
 
 
 #### Contact me
