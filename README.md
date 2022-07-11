@@ -52,7 +52,7 @@ When flashing for this board, you want to treat it as a Reviung41. You can creat
 3. Solder LEDs or LED strip if you're using any.
 4. Solder controller pins or controller hotswap sockets to the keyboard PCB. **Do not solder the *CONTROLLER* yet, just the pins.**
 5. Put your switches in the switch plate and solder them to the PCB.
-6. Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
+6. Solder controller. Check the image below to confirm the controller orientation is correct before you solder. On most controllers, the USB port will be exposed, in other words it'll be facing up when you're looking at the bottom of the PCB.
 7. Assemble case.
 
 ![Controller Orientation](/troubleshooting-help/controller-orientation.jpg) 
