@@ -55,11 +55,7 @@ When flashing for this board, you want to treat it as a Reviung41. You can creat
 6. Solder controller. Check the image below to confirm the controller orientation is correct before you solder.
 7. Assemble case.
 
-<<<<<<< HEAD
 ![Controller Orientation](/troubleshooting-help/controller-orientation.jpg)
-=======
-![Controller Orientation](/troubleshooting-help/controller-orientation.jpg) 
->>>>>>> parent of 2ca961a (Update README.md)
 
 
 #### Contact me
